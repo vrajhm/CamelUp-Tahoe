@@ -1,3 +1,5 @@
+![Main Banner](images/MainBanner.png)
+
 # CamelUp - Tahoe
 
 Camel Up helps hikers tap into the knowledge of people who've actually been on the trail.
